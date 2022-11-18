@@ -1,4 +1,4 @@
-![DevoLab Logo](./assets/Star-logo-gradient-2.png)
+![DevoLab Logo](/assets/Star-logo-gradient.png)
 
 ## Get Involved
 
