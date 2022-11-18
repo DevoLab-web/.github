@@ -1,4 +1,15 @@
-## Hi there 👋
+![DevoLab Logo](./assets/Star-logo-gradient-2.png)
+
+## Get Involved
+
+If you are here and know what you are doing, you should probably work with us !
+Let's check [DevoLab on Discord](https://discord.gg/wkxkNMfMtT).
+
+Right now, DevoLab doesn't provide open source projects. However, if you are interested in contributing to one of our projects, please contact us at [contact@devolab.net](mailto:contact@devolab.net).
+
+`DevoLab is a service provided by NewLine.`
+
+
 
 <!--
 
