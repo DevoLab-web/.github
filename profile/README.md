@@ -3,11 +3,11 @@
 ## Get Involved
 
 If you are here and know what you are doing, you should probably work with us !
-Let's check [DevoLab on Discord](https://discord.gg/wkxkNMfMtT).
+Let's check our [website](https://devolab.net) or chat with us on [Discord](https://discord.gg/wkxkNMfMtT).
 
 Right now, DevoLab doesn't provide open source projects. However, if you are interested in contributing to one of our projects, please contact us at [contact@devolab.net](mailto:contact@devolab.net).
 
-`DevoLab is a service provided by NewLine.`
+> DEVOLAB, société par actions simplifiée au capital social de 3000 €, dont le siège social est situé au 223 AV EMILE COUNORD 33300 BORDEAUX, immatriculée au Registre du Commerce et des Sociétés de Bordeaux sous le numéro 951 583 251.
 
 
 
